@@ -540,18 +540,6 @@
         {
             "name": "github.com/Masterminds/semver",
             "version": "v1.4.2",
-            "purl": "pkg:golang/github.com/Masterminds/semver@v1.4.2?type=module",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/Masterminds/semver",
-            "version": "v1.4.2",
             "purl": "pkg:golang/github.com/Masterminds/semver@v1.4.2?type=package",
             "type": "library",
             "properties": [
@@ -576,31 +564,7 @@
         {
             "name": "github.com/cachito-testing/gomod-pandemonium/terminaltor",
             "version": "v1.0.0",
-            "purl": "pkg:golang/github.com/cachito-testing/gomod-pandemonium/terminaltor@v1.0.0?type=module",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/cachito-testing/gomod-pandemonium/terminaltor",
-            "version": "v1.0.0",
             "purl": "pkg:golang/github.com/cachito-testing/gomod-pandemonium/terminaltor@v1.0.0?type=package",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/cachito-testing/gomod-pandemonium/weird",
-            "version": "v0.0.0-20230417073518-0c6890c3280a",
-            "purl": "pkg:golang/github.com/cachito-testing/gomod-pandemonium/weird@v0.0.0-20230417073518-0c6890c3280a?type=module",
             "type": "library",
             "properties": [
                 {
@@ -625,18 +589,6 @@
             "name": "github.com/cachito-testing/gomod-pandemonium/where-was-i-built",
             "version": "v0.1.0",
             "purl": "pkg:golang/github.com/cachito-testing/gomod-pandemonium/where-was-i-built@v0.1.0?type=package",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/cachito-testing/gomod-pandemonium",
-            "version": "v0.1.0",
-            "purl": "pkg:golang/github.com/cachito-testing/gomod-pandemonium@v0.1.0?type=module",
             "type": "library",
             "properties": [
                 {
@@ -744,18 +696,6 @@
         {
             "name": "github.com/moby/term",
             "version": "v0.0.0-20221205130635-1aeaba878587",
-            "purl": "pkg:golang/github.com/moby/term@v0.0.0-20221205130635-1aeaba878587?type=module",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/moby/term",
-            "version": "v0.0.0-20221205130635-1aeaba878587",
             "purl": "pkg:golang/github.com/moby/term@v0.0.0-20221205130635-1aeaba878587?type=package",
             "type": "library",
             "properties": [
@@ -792,31 +732,7 @@
         {
             "name": "github.com/op/go-logging",
             "version": "v0.0.0-20160315200505-970db520ece7",
-            "purl": "pkg:golang/github.com/op/go-logging@v0.0.0-20160315200505-970db520ece7?type=module",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/op/go-logging",
-            "version": "v0.0.0-20160315200505-970db520ece7",
             "purl": "pkg:golang/github.com/op/go-logging@v0.0.0-20160315200505-970db520ece7?type=package",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "github.com/pkg/errors",
-            "version": "v0.8.1",
-            "purl": "pkg:golang/github.com/pkg/errors@v0.8.1?type=module",
             "type": "library",
             "properties": [
                 {
@@ -1024,18 +940,6 @@
             "name": "golang.org/x/tools",
             "version": "v0.7.0",
             "purl": "pkg:golang/golang.org/x/tools@v0.7.0?type=module",
-            "type": "library",
-            "properties": [
-                {
-                    "name": "cachi2:foundBy",
-                    "value": "cachi2"
-                }
-            ]
-        },
-        {
-            "name": "gopkg.in/yaml.v2",
-            "version": "v2.2.2",
-            "purl": "pkg:golang/gopkg.in/yaml.v2@v2.2.2?type=module",
             "type": "library",
             "properties": [
                 {
