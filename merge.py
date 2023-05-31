@@ -20,7 +20,7 @@ def is_local_golang_module(component: dict) -> bool:
 def unique_key_cachi2(component: dict) -> str:
     url = urlsplit(component["purl"])
     # omit the query part, since Cachi2 sets it and Syft does not
-    return url.scheme + url.path
+    return url.scheme + ":" + url.path
 
 
 def unique_key_rhtap(component: dict) -> str:
@@ -28,7 +28,7 @@ def unique_key_rhtap(component: dict) -> str:
     if "purl" in component.keys():
         parts = component["purl"].split("@")
         # Syft does not encode special characters in the version
-        return parts[0] + quote_plus(parts[1])
+        return parts[0] + "@" + quote_plus(parts[1])
 
     return component.get('name', '') + '@' + component.get('version', '')
 
