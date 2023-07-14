@@ -1,0 +1,4 @@
+[submodule "cachi2"]
+	path = cachi2
+	url = https://github.com/brunoapimentel/cachi2
+	branch = merge-syft-sbom
